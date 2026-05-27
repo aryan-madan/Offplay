@@ -27,3 +27,26 @@ Here's an image of the ESP-32 schematic
 I'll do the audio DAC next!
 
 ---
+
+# 3 - (4.5hr) Finishing the Schematics
+I did a holy lock in
+I have never been so locked in before
+I worked for 4 straight hours and I completed the schematics
+
+I had this one issue where I was using local labels instead of global ones so that was annoying
+
+I also had to do so many components like ive never made so many components before
+
+For the buttons on the player, i decided on having keyboard switches cuz yay keyboards!
+
+For controlling the volume i added a knob (hi nob)
+
+I wanted to have both an audio jack and bluetooth, i added a schematic for an sd card to play the songs from
+
+![Schematics](Assets/Journal/3.png)
+
+I think i'm done with the schematics, i just need to do the pcb next which i feel like isnt gona be fun D:
+
+okay bai
+
+---
