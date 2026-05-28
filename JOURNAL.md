@@ -50,3 +50,20 @@ I think i'm done with the schematics, i just need to do the pcb next which i fee
 okay bai
 
 ---
+
+# 4 - (4hr) The PCB
+I'm so done bro, I can't do this IDK
+I tried to layout the components properly but i'm having so many issues
+I'm so tired
+
+I had one version where it fully routed but it looked bad so I deleted it and i wish i'd gone back to that
+
+I'm so tired i dont know how to do this i was up till 4am trying to figure this out mannnn
+
+I'll relayout the stuff again im trying not to lose hope :C
+
+Anyway heres a pic of whatever i did
+
+[Unfinished PCB](Assets/Journal/4.png)
+
+---
