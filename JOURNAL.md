@@ -67,3 +67,16 @@ Anyway heres a pic of whatever i did
 [Unfinished PCB](Assets/Journal/4.png)
 
 ---
+
+# 5 - (3.5hr) Finishing the PCB
+I had completely lost interest in this project for a few days, I was super tired and demotivated to do anything
+However last night, I decided to redo the pcb layout with a fresh mind.
+I deleted every footprint and started making the pcb fresh
+
+I decided to keep the ESP32 in the middle, with ample spacing for the keep-out zone.
+I put the knob and the keycaps in a single row at the bottom, which I think looks clean
+
+![Finished PCB with routes](Assets/Journal/5.png)
+
+Overall i'm satisfied with how the pcb looks, ill start with the cad next time
+Okay bai
